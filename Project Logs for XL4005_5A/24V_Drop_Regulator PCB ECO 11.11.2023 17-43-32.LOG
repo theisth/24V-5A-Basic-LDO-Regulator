@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=GND Pin=C1-1
-Added Pin To Net: NetName=VCC_OUT Pin=TP1-2
-Added Pin To Net: NetName=VCC_OUT Pin=TP1-2
-Added Pin To Net: NetName=NetR1_2 Pin=R1-2
-Added Pin To Net: NetName=NetR1_2 Pin=U1-2
-Added Net: Name=NetR1_2
-Added Member To Class: ClassName=XL4005 Member=Component GND GND PAD

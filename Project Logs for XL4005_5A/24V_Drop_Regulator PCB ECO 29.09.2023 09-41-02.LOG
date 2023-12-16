@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=VCC_OUT Pin=IN-1
-Removed Pin From Net: NetName=VCC_IN Pin=OUT-1
-Added Pin To Net: NetName=VCC_IN Pin=IN-1
-Added Pin To Net: NetName=VCC_OUT Pin=OUT-1
-Added Member To Class: ClassName=XL4005 Member=Component GND GND PAD
