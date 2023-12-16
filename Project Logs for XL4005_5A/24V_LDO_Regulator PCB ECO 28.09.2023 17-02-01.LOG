@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Removed Pin From Net: NetName=Net*_1 Pin=*-1
+Change Component Comment : Designator=* Old Comment=INPUT New Comment=OUTPUT
+Change Component Comment : Designator=* Old Comment=OUTPUT New Comment=INPUT
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Add Net: Net with name "Net*_1" already exists
+Added Member To Class: ClassName=XL4005 Member=Component * INPUT

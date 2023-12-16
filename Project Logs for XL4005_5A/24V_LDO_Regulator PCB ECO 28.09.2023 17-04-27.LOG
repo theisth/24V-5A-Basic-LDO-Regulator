@@ -1,0 +1,22 @@
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Net*_2 Pin=*-2
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=XL4005 Member=*
+Added Component: Designator=IN(Output/Input)
+Added Component: Designator=OUT(Output/Input)
+Added Pin To Net: NetName=Net*_1 Pin=IN-1
+Added Pin To Net: NetName=Net*_1 Pin=IN-1
+Added Pin To Net: NetName=Net*_2 Pin=IN-2
+Added Pin To Net: NetName=Net*_2 Pin=OUT-2
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetC2_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Pin To Net: NetName=NetC1_2 Pin=OUT-1
+Added Pin To Net: NetName=NetC1_2 Pin=OUT-1
+Added Pin To Net: NetName=NetC1_2 Pin=TP1-3
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=XL4005 Member=Component IN INPUT
+Added Member To Class: ClassName=XL4005 Member=Component OUT OUTPUT
