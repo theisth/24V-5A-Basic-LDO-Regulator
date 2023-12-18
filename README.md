@@ -4,3 +4,4 @@
 
 ![image](https://github.com/theisth/24V-5A-Basic-LDO-Regulator/assets/96699934/999c778c-2447-4e58-bae9-48feeb8da0e8)
 
+![image](https://github.com/theisth/24V-5A-Basic-LDO-Regulator/assets/96699934/20818216-908b-4795-b1f7-f50209445222)
