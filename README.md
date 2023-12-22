@@ -1,7 +1,7 @@
-Input: 24V
-Output: 24V-12V (LDO)
-Max Current: 5A
-Max Voltage: ~23V
+*Input: 24V
+*Output: 24V-12V (LDO)
+*Max Current: 5A
+*Max Voltage: ~23V
 
 ![image](https://github.com/theisth/24V-5A-Basic-LDO-Regulator/assets/96699934/0e8a90bb-09c2-405a-a65b-42dc2b0c2781)
 
